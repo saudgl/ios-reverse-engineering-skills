@@ -1,4 +1,14 @@
+<div align="center">
+
+**[English](README.md)** · **[العربية](README.ar.md)**
+
+</div>
+
 # iOS Reverse Engineering Toolkit
+
+> 🌐 **This README is also available in Arabic:** [README.ar.md](README.ar.md)
+>
+> 🌐 **هذا الملف متوفر أيضًا باللغة العربية:** [README.ar.md](README.ar.md)
 
 A comprehensive toolkit and skill for extracting, analyzing, and auditing iOS applications — IPAs, `.app` bundles, Mach-O binaries, dynamic libraries, and frameworks. It automates class dumping, API endpoint extraction, call-flow tracing, secret/credential scanning, LLM-assisted binary reversing (Ghidra headless), SDK fingerprinting with CVE cross-referencing, anti-tampering detection, and a static vulnerability audit. Works with both Swift and Objective-C applications on macOS and Linux.
 
